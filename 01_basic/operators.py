@@ -26,9 +26,3 @@ result = num5 * num6 * num7
 print(result)
 
 #divide
-
-n1 = 6
-n2 = 3
-result = n1 / n2
-
-print(result)

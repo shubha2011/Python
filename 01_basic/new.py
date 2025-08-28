@@ -19,12 +19,12 @@ print(is_student)
 
 #Create four different variables each storing different data types.
 
-cat = 3
+cat = 3    #int
 
-cat2 = True
+cat2 = True    #bool
 
-cat3 = "suba"
+cat3 = "suba"    #str
 
-cat4 = 2.5
+cat4 = 2.5    #float
 
 print(cat,cat2,cat3,cat4)

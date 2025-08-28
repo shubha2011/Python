@@ -7,17 +7,16 @@ name = "shubha"
 print(number)
 print(name)
 
-
 age = 14
-firstname = "shubha"
-lastname = "regmi"
+first_name = "shubha"
+last_name = "regmi"
 
 print(age)
-print(firstname)
-print(lastname)
+print(first_name)
+print(last_name)
 
-print(firstname, lastname, age)
+print(first_name, last_name, age)
 
-
-print = 15
-print(print)
+can_drive = False #Bool
+n1 = 44 #int
+n2 = 4.4 #float

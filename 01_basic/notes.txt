@@ -1,0 +1,11 @@
+1. Variables
+    Container for storing data. There are rules for defining variables:
+    - A variable can consist of upper and lowercase letters, the digits 0-9 and the underscore character(_).
+    - The first character of a variable cannot be a digit.
+    - Keywords like print, if, etc are reserved and cannot be used as variable names.
+    - Variables are case-sensitive; therefore x is different from X.b
+
+2. DataTypes
+    1, 1.1, "Subha"，True, False
+    integer, float, strings, boolean
+    
