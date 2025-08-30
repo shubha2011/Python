@@ -9,3 +9,8 @@
     1, 1.1, "Subha"，True, False
     integer, float, strings, boolean
     
+3. Python Operators
+    +, -, *, /, %
+
+4. If-else Statements
+    In Python, if, elif (else if) and else statements are used for conditional execution, allowing different blocks of code to run based on whether specific conditions are met.
